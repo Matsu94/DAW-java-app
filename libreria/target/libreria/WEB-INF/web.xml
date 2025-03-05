@@ -1,0 +1,45 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         version="3.0">
+    
+    <welcome-file-list>
+        <welcome-file>llibreria.jsp</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <servlet-name>Consulta</servlet-name>
+        <jsp-file>/Consulta.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Consulta</servlet-name>
+        <url-pattern>/consulta</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Insertar</servlet-name>
+        <jsp-file>/Insertar.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Insertar</servlet-name>
+        <url-pattern>/Insertar</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Eliminar</servlet-name>
+        <jsp-file>/Eliminar.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Eliminar</servlet-name>
+        <url-pattern>/Eliminar</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Modificar</servlet-name>
+        <jsp-file>/Modificar.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Modificar</servlet-name>
+        <url-pattern>/Modificar</url-pattern>
+    </servlet-mapping>
+
+</web-app>
