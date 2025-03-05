@@ -4,6 +4,9 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+/**
+ * Manages database connections for the application.
+ */
 public class Connexio {
 
     // Database credentials
@@ -11,7 +14,11 @@ public class Connexio {
     private static final String USER = "omni";
     private static final String PASSWORD = "asd";
 
-    // Method to get a database connection
+    /**
+     * Establishes a connection to the database.
+     * @return A Connection object.
+     * @throws SQLException If a database access error occurs.
+     */
     public static Connection getConnection() throws SQLException {
         try {
             // Register the MariaDB JDBC driver (optional with modern JDBC)

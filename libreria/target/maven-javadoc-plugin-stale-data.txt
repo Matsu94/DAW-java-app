@@ -1,0 +1,64 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/MaTuS/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/MaTuS/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.5.1/mariadb-java-client-3.5.1.jar;C:/Users/MaTuS/.m2/repository/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar;C:/Users/MaTuS/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar;C:/Users/MaTuS/.m2/repository/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar;C:/Users/MaTuS/.m2/repository/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar;C:/Users/MaTuS/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;C:/Users/MaTuS/.m2/repository/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar;C:/Users/MaTuS/.m2/repository/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar;C:/Users/MaTuS/.m2/repository/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.jar;C:/Users/MaTuS/.m2/repository/org/webjars/bootstrap/5.1.3/bootstrap-5.1.3.jar;C:/Users/MaTuS/.m2/repository/org/webjars/popper.js/2.9.3/popper.js-2.9.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/MaTuS/Desktop/Clases/Now/Desplegament_Web/DAW-java-app/libreria/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/MaTuS/Desktop/Clases/Now/Desplegament_Web/DAW-java-app/libreria/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'libreria Maven Webapp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'libreria Maven Webapp 1.0-SNAPSHOT API'
+project
+test
+C:\Users\MaTuS\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1733704327487
+C:\Users\MaTuS\.m2\repository\org\mariadb\jdbc\mariadb-java-client\3.5.1\mariadb-java-client-3.5.1.jar = 1733704339348
+C:\Users\MaTuS\.m2\repository\com\github\waffle\waffle-jna\3.3.0\waffle-jna-3.3.0.jar = 1733704339429
+C:\Users\MaTuS\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar = 1733704339503
+C:\Users\MaTuS\.m2\repository\net\java\dev\jna\jna-platform\5.13.0\jna-platform-5.13.0.jar = 1733704339484
+C:\Users\MaTuS\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar = 1733704339576
+C:\Users\MaTuS\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1733704339429
+C:\Users\MaTuS\.m2\repository\com\github\ben-manes\caffeine\caffeine\2.9.3\caffeine-2.9.3.jar = 1733692692349
+C:\Users\MaTuS\.m2\repository\com\google\errorprone\error_prone_annotations\2.10.0\error_prone_annotations-2.10.0.jar = 1733692692473
+C:\Users\MaTuS\.m2\repository\org\checkerframework\checker-qual\3.32.0\checker-qual-3.32.0.jar = 1733704339501
+C:\Users\MaTuS\.m2\repository\org\webjars\bootstrap\5.1.3\bootstrap-5.1.3.jar = 1733692906337
+C:\Users\MaTuS\.m2\repository\org\webjars\popper.js\2.9.3\popper.js-2.9.3.jar = 1733692906404
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\src\main\java = 1733765947963
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\allclasses-index.html = 1741209075747
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\allpackages-index.html = 1741209075750
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\copy.svg = 1741209075801
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\element-list = 1741209075606
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\help-doc.html = 1741209075793
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\index-all.html = 1741209075778
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\index.html = 1741209075725
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\link.svg = 1741209075804
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\member-search-index.js = 1741209075758
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\module-search-index.js = 1741209075752
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\overview-summary.html = 1741209075787
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\overview-tree.html = 1741209075719
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\package-search-index.js = 1741209075754
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\script.js = 1741209075800
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\search-page.js = 1741209075812
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\search.html = 1741209075783
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\search.js = 1741209075808
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\serialized-form.html = 1741209075663
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\stylesheet.css = 1741209075797
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\tag-search-index.js = 1741209075759
+C:\Users\MaTuS\Desktop\Clases\Now\Desplegament_Web\DAW-java-app\libreria\target\reports\apidocs\type-search-index.js = 1741209075755

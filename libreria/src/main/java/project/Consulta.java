@@ -7,6 +7,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Provides methods to query the database for books and related information.
+ */
 public class Consulta {
 
     /**
@@ -49,6 +52,4 @@ public class Consulta {
         }
         return books;
     }
-
-    // Add similar methods for authors, editorials, etc.
 }
